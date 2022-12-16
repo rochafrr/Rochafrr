@@ -1,4 +1,4 @@
-### Olá!Eu sou Fábio Rodrigues. Atualmento sou desenvolvedor FullStack Jr e aprendendo a desenvolver em blockchain.
+### Olá! Eu sou Fábio Rodrigues. Atualmento sou desenvolvedor FullStack Jr e aprendendo a desenvolver em blockchain.
 
 
 ## 🌐 Socials:
